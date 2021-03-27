@@ -3,14 +3,8 @@
 <h3 align="center">I am full Stack developer, I love to do mobile and web applictions</h3>
 - 🔭 I’m currently working on **React-django Application**
 - 📫 How to reach me **kapilharodek4@gmail.com**
-- I have knowledge to development of Iot products android mobile , web , cloud web Application
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/satyams12045057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satyams12045057" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam-singh-53245913a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-singh-53245913a" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100029186867683" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100029186867683" height="30" width="40" /></a>
-<a href="https://instagram.com/satyamsingh9058" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="satyamsingh9058" height="30" width="40" /></a>
-</p>
+- I have knowledge to development of IIot products android mobile,web,cloud web Applications
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
